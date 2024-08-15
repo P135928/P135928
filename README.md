@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-this bullshit is malarkey
+Hey! If you stumbled upon this you found a not too great coder
+im just learning the basics of this and really like C++ Rust and 
+Python.
