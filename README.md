@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Hey! If you stumbled upon this you found a not too great coder
-im just learning the basics of this and really like C++ Rust and 
+im just learning the basics of this and really like C++ and 
 Python.
